@@ -3,6 +3,8 @@ This repo is used by the Project-X Firmware Updater as the source for the firmwa
 
 When a firmware update is ready a new *Release* should be created with its tag set to the new version number.
 
-Version numbers are formatted as (note the leading 'v')
+Version numbers are formatted as per recommended semantic version numbering standards: Major.Minor.Patch
+
+For example (note the leading 'v')
 
 v2.17.6
